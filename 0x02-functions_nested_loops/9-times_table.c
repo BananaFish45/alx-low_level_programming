@@ -10,8 +10,7 @@
 
                         for (j=0 ; j<10 ; j++)
                             {
-
- n = i*j;
+                                n = i*j;
                                 if(n<=9)
                                     {
                                         _putchar(n + '0');
