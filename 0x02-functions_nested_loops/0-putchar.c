@@ -23,5 +23,3 @@ return 0;
 
 
 }
-
-main.h
