@@ -2,8 +2,9 @@
 
 /**
 *main -print putchar
-*Return 0
+*return: always 0
 */
+
 int main(void)
 {
 _putchar('_');
