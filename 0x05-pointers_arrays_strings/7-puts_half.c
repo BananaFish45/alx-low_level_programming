@@ -32,4 +32,5 @@ int _strlen(char *s)
 		len++;
 
 	return (len);
-}[A[A[A[A[A[A[A[A[A[A[A[A[A[C[C[C[C[C[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[D[D[D[D[A[B[B[A[A[A[A[A[A[A[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[C
+}
+

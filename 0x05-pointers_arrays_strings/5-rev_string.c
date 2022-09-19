@@ -1,11 +1,13 @@
 #include <stdio.h>
 #include "main.h"
+
 /**
-*rev_string -Re[D[D[D[C [CReverses a string
-*s is the string to be reversed
+* rev_string - Reverses a string
+* @s: string to be reversed
 *
-* return end the program
+* Return: nothing
 */
+
 void rev_string(char *s)
 {
 	int i, tmp, len = _strlen(s);
@@ -19,10 +21,10 @@ void rev_string(char *s)
 }
 
 /**
-*rev_string - Reverses a string
-*s is the string to be reversed
+* _strlen - returns the length of a string
+* @s: string
 *
-* return end the program
+* Return: the length of the given string
 */
 
 int _strlen(char *s)
@@ -34,4 +36,3 @@ int _strlen(char *s)
 
 	return (len);
 }
-
