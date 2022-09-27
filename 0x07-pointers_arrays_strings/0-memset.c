@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  *_memset() function fills the first
+ *@s: source string
  *@n  bytes of the memory area
  *@b char
  *Return : new string
