@@ -1,10 +1,10 @@
 #include "main.h"
 /**
  * @brief
- *
- * @a source string
+ *print_diagsums - prints the sum of two diagonals of a square
+ * @a: source string
  * @size: size is just size
- * @return ** void
+ * return: void
  */
 void print_diagsums(int *a, int size)
 {
