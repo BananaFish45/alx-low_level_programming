@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * @brief
  *
- * @param haystack
- * @param needle
- * @return ** char*
+ * @haystack: sonething something
+ * @needle: the pointer
+ * return ** char*
  */
 
 char *_strstr(char *haystack, char *needle)

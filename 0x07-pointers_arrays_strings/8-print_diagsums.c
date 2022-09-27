@@ -2,8 +2,8 @@
 /**
  * @brief
  *
- * @param a
- * @param size
+ * @a source string
+ * @size: size is just size
  * @return ** void
  */
 void print_diagsums(int *a, int size)
@@ -23,5 +23,5 @@ void print_diagsums(int *a, int size)
     {
         sumDiag2 = sumDiag2 + a[i];
     }
-    print("%d %d\n", sumDiag1, sumDiag2);
+    print("%d,%d\n", sumDiag1, sumDiag2);
 }
