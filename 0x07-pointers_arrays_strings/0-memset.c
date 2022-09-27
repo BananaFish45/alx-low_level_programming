@@ -2,7 +2,7 @@
 /**
  *_memset() function fills the first
  *@n  bytes of the memory area
- *@s constant byte
+ *@b char
  *Return : new string
  */
 
