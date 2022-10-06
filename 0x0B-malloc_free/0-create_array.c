@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdio.h>
+#include <stdlib.h>
 
 /**
  *create_array of characters
@@ -14,7 +15,7 @@ char *create_array(unsigned int size, char c)
     unsigned int counter;
     if (size == 0)
     {
-        retrun(NULL);
+        return (NULL);
     }
     array = malloc(sizeof(char) * size);
     if (array == NULL)
